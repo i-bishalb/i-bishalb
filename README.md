@@ -1,11 +1,12 @@
 # Hello and Welcome to my github page. 👋
 
-## About Me: 
->Computational Physicist (Ph.D. ) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
->Expertise in simulation, mathematical-modeling, statistical analysis, data analysis and data-driven solutions to understand 
->material properties for various industrial applications. 
->Excellent communication, writing and presentation skill with key finding presented at several national/international conferences 
->and peer-reviewed/ scientific journal publications.
+## About Me:
+***
+ Computational Physicist (Ph.D. ) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
+ Expertise in simulation, mathematical-modeling, statistical analysis, data analysis and data-driven solutions to understand 
+ material properties for various industrial applications. 
+ Excellent communication, writing and presentation skill with key finding presented at several national/international conferences 
+ and peer-reviewed/ scientific journal publications.
 
 
 <!--
