@@ -6,6 +6,12 @@
  material properties for various industrial applications. 
  Excellent communication, writing and presentation skill with key finding presented at several national/international conferences 
  and peer-reviewed/ scientific journal publications.
+ 
+ 
+ ## Repositories:
+ 
+ 1. Research 
+ 2. MachineLearningProjects
 
 
 <!--
