@@ -1,4 +1,4 @@
-# Welcome to my github page. 👋
+# Welcome to my Github Page. 👋
 
 ## About Me:
  Computational Physicist (Ph.D.) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
