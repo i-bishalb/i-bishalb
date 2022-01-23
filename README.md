@@ -4,7 +4,7 @@
  Computational Physicist (Ph.D.) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
  Expert in simulation, mathematical-modeling, statistical analysis, data analysis and data-driven solutions. 
  Excellent communication, writing and presentation skills.
- Research finding presented at several national/international conferences and peer-reviewed/ scientific journal publications.<br>
+ Research finding presented at several national/international conferences and peer-reviewed/ scientific journal publications.
  Highly motivated to learn new skills esp. about Machine Learning /Deep Learning and Programming languages.
  
 ## Find more about me: 
