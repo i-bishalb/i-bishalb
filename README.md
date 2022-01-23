@@ -13,11 +13,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/i-bishalb?tab=repositories)
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.fr/citations?user=your_id"
- 
+
  
  # Repositories:
  
