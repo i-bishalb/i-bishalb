@@ -11,11 +11,11 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="images/google.png" alt="linkedin"> LinkedIn
+  <a href="https://www.linkedin.com/in/bishal-bhattarai/" rel="nofollow noreferrer">
+    <img src="images/google.png" width = "70" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  <a href="https://github.com/i-bishalb" rel="nofollow noreferrer">
+    <img src="images/Github.png" width = "100" alt="github"> Github
   </a>
 </p>
 
