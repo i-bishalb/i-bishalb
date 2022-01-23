@@ -37,7 +37,7 @@
     2. 
 
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
-    1. Boston Housing Prices Regression
+    1. Boston Housing Prices (Regression)
    
 
 
