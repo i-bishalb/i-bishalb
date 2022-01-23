@@ -1,17 +1,25 @@
 # Welcome to my GitHub Page. 👋
 
-## About Me:
+# About Me:
  Computational Physicist (Ph.D.) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
- Expertise in simulation, mathematical-modeling, statistical analysis, data analysis and data-driven solutions to understand 
- material properties for various industrial applications. 
- Excellent communication, writing and presentation skill with key finding presented at several national/international conferences 
- and peer-reviewed/ scientific journal publications.
+ Expert in simulation, mathematical-modeling, statistical analysis, data analysis and data-driven solutions to understand 
+ material properties for various industrial applications. Excellent communication, writing and presentation skill with key 
+ finding presented at several national/international conferences and peer-reviewed/ scientific journal publications.
+ Highly motivated to learn new skills esp. about Machine Learning /Deep Learning and Programming languages.
+ 
+# Find more about me: 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
  
  
- ## Repositories:
+ # Repositories:
  
- 1. Research 
- 2. MachineLearningProjects
+ * 1. Research 
+   * 1a. 
+ * 2. MachineLearningProjects
+  *2a. 
 
 
 <!--
