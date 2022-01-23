@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page. 👋
+# Welcome to my GitHub Page. 
 
 ## About Me:
  Computational Physicist (Ph.D.) and Data Scientist with 10+ years of experience in programming, high-performance computing. 
@@ -30,7 +30,7 @@
 
  
  
- # Repositories:
+ ## Repositories:
  
  * 1. Research 
    *. 
