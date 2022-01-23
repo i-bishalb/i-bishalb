@@ -9,8 +9,7 @@
  
 # Find more about me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-[![Linkedin](https://github.com/i-bishalb/i-bishalb/tree/main/images/LinkedIn.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://github.com/i-bishalb/i-bishalb/tree/main/images/LinkedIn.png) LinkedIn](https://www.linkedin.com/) &nbsp;
 
 
 ![Linkedin](https://github.com/i-bishalb/i-bishalb/tree/main/images/LinkedIn.png) LinkedIn](https://www.linkedin.com/in/bishal-bhattarai/)
