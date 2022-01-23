@@ -33,8 +33,9 @@
  ## Repositories:
  
  1. [Research](https://github.com/i-bishalb/Research) 
+    a.
 
- 2. [MachineLearningProjects](https://github.com/i-bishalb/MachineLearningProjects)
+ 2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
    
 
 
