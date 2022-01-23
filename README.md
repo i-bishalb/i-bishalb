@@ -37,7 +37,7 @@
     2. 
 
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
-    1. [Predicting Housing Prices (Regression)](https://github.com/i-bishalb/MachineLearningProjects/tree/main/Predicting_Housing_Prices_Regression)
+    1. [Predicting Housing Prices (Regression)](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Predicting_Housing_Prices_Regression/Predicting_Housing_Prices_Regression.ipynb): <br>
        In this project, we are going to predict housing prices for the boston housing data. I have used linear regression, lasso regression, Ridge regression
        and ElasticNet to predict the housing prices. Polynomial of degree 2 does a good job in prediction housing prices. Best models for each method were selected using 
        extensive gridsearch.
