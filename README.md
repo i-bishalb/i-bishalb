@@ -9,10 +9,18 @@
  
 # Find more about me: 
 
-<p align="center">
-  <img src="images/google.png" width="350" title="Linkedin">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="images/google.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
 </p>
+
+ <img src="images/google.png" width="100" title="Linkedin">
+  
 
 [![Linkedin](images/google.png=100x20) LinkedIn](https://www.linkedin.com/in/bishal-bhattarai/)
 &nbsp;
