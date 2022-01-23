@@ -20,7 +20,7 @@
  * 1. Research 
    * 1a. 
  * 2. MachineLearningProjects
-  *2a. 
+  * 2a. 
 
 
 <!--
