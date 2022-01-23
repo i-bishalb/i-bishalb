@@ -32,10 +32,10 @@
  
  ## Repositories:
  
- * 1. Research 
-   *. 
- * 2. MachineLearningProjects
-   *. 
+ * 1. [Research] (https://github.com/i-bishalb/Research) 
+
+ * 2. [MachineLearningProjects] (https://github.com/i-bishalb/MachineLearningProjects)
+   
 
 
 <!--
