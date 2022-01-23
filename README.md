@@ -12,20 +12,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/bishal-bhattarai/" rel="nofollow noreferrer">
-    <img src="images/LinkedIn.png" width = "90" alt="linkedin"> 
+    <img src="images/LinkedIn.png" width = "80" alt="linkedin"> 
   </a> &nbsp; 
   <a href="https://github.com/i-bishalb" rel="nofollow noreferrer">
-    <img src="images/Github.png" width = "90" alt="github"> 
+    <img src="images/Github.png" width = "80" alt="github"> 
   </a>
 </p>
 
- <img src="images/google.png" width="100" title="Linkedin">
-  
-
-[![Linkedin](images/google.png=100x20) LinkedIn](https://www.linkedin.com/in/bishal-bhattarai/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/i-bishalb)
-
+ 
  
  # Repositories:
  
