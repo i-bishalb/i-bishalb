@@ -32,10 +32,12 @@
  
  ## Repositories:
  
- 1. [Research](https://github.com/i-bishalb/Research) 
-    a.
+ 1. [Amorphous Materials Modeling](https://github.com/i-bishalb/Amorphous_Modeling) 
+    1. Random Amorphous Configuration
+    2. 
 
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
+    1. Boston Housing Prices Regression
    
 
 
