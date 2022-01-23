@@ -9,6 +9,11 @@
  
 # Find more about me: 
 
+<p align="center">
+  <img src="images/google.png" width="350" title="Linkedin">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 [![Linkedin](images/google.png=100x20) LinkedIn](https://www.linkedin.com/in/bishal-bhattarai/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/i-bishalb)
