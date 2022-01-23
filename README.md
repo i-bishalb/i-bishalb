@@ -12,10 +12,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/bishal-bhattarai/" rel="nofollow noreferrer">
-    <img src="images/google.png" width = "70" alt="linkedin"> LinkedIn
+    <img src="images/LinkedIn.png" width = "90" alt="linkedin"> 
   </a> &nbsp; 
   <a href="https://github.com/i-bishalb" rel="nofollow noreferrer">
-    <img src="images/Github.png" width = "100" alt="github"> Github
+    <img src="images/Github.png" width = "90" alt="github"> 
   </a>
 </p>
 
