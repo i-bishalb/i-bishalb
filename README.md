@@ -12,19 +12,19 @@
 
 <p>
   <a href="https://www.linkedin.com/in/bishal-bhattarai/" rel="nofollow noreferrer">
-    <img src="images/LinkedIn.png" width = "65" alt="linkedin"> 
+    <img src="images/LinkedIn.png" width = "55" alt="linkedin"> 
   </a> &nbsp; 
   <a href="https://github.com/i-bishalb" rel="nofollow noreferrer">
-    <img src="images/Github.png" width = "65" alt="github"> 
+    <img src="images/Github.png" width = "55" alt="github"> 
   </a>
   <a href="https://twitter.com/i_bishalb" rel="nofollow noreferrer">
-    <img src="images/twitter.png" width = "70" alt="twitter"> 
+    <img src="images/twitter.png" width = "55" alt="twitter"> 
   </a>
   <a href="https://scholar.google.com/citations?user=LRJLcRQAAAAJ&hl=en&oi=ao" rel="nofollow noreferrer">
-    <img src="images/google.png" width = "70" alt="googlescholar"> 
+    <img src="images/google.png" width = "55" alt="googlescholar"> 
   </a>
  <a href="mailto:bishal_bhattarai@outlook.com" rel="nofollow noreferrer">
-    <img src="images/Outlook_Logo.png" width = "70" alt="twitter"> 
+    <img src="images/Outlook_Logo.png" width = "55" alt="twitter"> 
   </a>
 </p>
 
