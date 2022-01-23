@@ -12,13 +12,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/bishal-bhattarai/" rel="nofollow noreferrer">
-    <img src="images/LinkedIn.png" width = "70" alt="linkedin"> 
+    <img src="images/LinkedIn.png" width = "65" alt="linkedin"> 
   </a> &nbsp; 
   <a href="https://github.com/i-bishalb" rel="nofollow noreferrer">
-    <img src="images/Github.png" width = "70" alt="github"> 
+    <img src="images/Github.png" width = "65" alt="github"> 
   </a>
   <a href="https://scholar.google.com/citations?user=LRJLcRQAAAAJ&hl=en&oi=ao" rel="nofollow noreferrer">
-    <img src="images/google.png" width = "70" alt="github"> 
+    <img src="images/google.png" width = "70" alt="googlescholar"> 
+  </a>
+  <a href="https://twitter.com/i_bishalb" rel="nofollow noreferrer">
+    <img src="images/twitter.png" width = "70" alt="twitter"> 
   </a>
 </p>
 
