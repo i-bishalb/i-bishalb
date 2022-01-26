@@ -37,6 +37,7 @@
    
 
  2. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningProjects)
+    These are some of the projects that were carried out while taking courses with machine learning.
     1. [Predicting Housing Prices (Regression)](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Predicting_Housing_Prices_Regression/Predicting_Housing_Prices_Regression.ipynb): <br>
      In this project, I have predicted housing prices using the boston housing data. I have used **Linear Regression** and regularized regression methods: **Lasso Regression**, **Ridge Regression** and **ElasticNet Regression** to predict the housing prices. Polynomial of degree 2 does a good job in predicting housing prices. Best models for each method were selected using extensive gridsearch. All 3 regularized models (**Lasso Regression**, **Ridge Regression** and **ElasticNet Regression**) show similar accuracy for prediction. 
     2. [Housing Prices (Regression)](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Housing_Prices_Regression/California_Housing_Regression.ipynb): <br> 
