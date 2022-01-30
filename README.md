@@ -1,6 +1,6 @@
 <html>
  <head>
-  <meta name="google-site-verification" content="yVVQ8387YmZi78yWpO4UiQ9wEr2ggY7De1BCvIAlJw8" >
+  <meta name="google-site-verification" content="yVVQ8387YmZi78yWpO4UiQ9wEr2ggY7De1BCvIAlJw8" />
   </html>
 
 # Welcome to my GitHub Page. 
