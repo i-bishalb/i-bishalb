@@ -39,9 +39,11 @@
  
  1. [Amorphous Materials Modeling](https://github.com/i-bishalb/Amorphous_Modeling) 
     1. Random Amorphous Configuration
+ 
+ 2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
    
 
- 2. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningProjects)
+ 3. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningProjects)
     These are some of the projects that were carried out while taking courses with machine learning.
     1. **Regression**
        1. [Predicting Housing Prices](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Predicting_Housing_Prices_Regression/Predicting_Housing_Prices_Regression.ipynb): <br>
