@@ -43,12 +43,12 @@
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
    
 
- 3. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningProjects)
+ 3. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningAssignments)
     These are some of the projects that were carried out while taking courses with machine learning.
     1. **Regression**
-       1. [Predicting Housing Prices](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Predicting_Housing_Prices_Regression/Predicting_Housing_Prices_Regression.ipynb): <br>
+       1. [Predicting Housing Prices](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Predicting_Housing_Prices_Regression/Predicting_Housing_Prices_Regression.ipynb): <br>
      In this project, I have predicted housing prices using the boston housing data. I have used **Linear Regression** and regularized regression methods: **Lasso Regression**, **Ridge Regression** and **ElasticNet Regression** to predict the housing prices. Polynomial of degree 2 does a good job in predicting housing prices. Best models for each method were selected using extensive gridsearch. All 3 regularized models (**Lasso Regression**, **Ridge Regression** and **ElasticNet Regression**) show similar accuracy for prediction. 
-       2. [California Housing Prices](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Housing_Prices_Regression/California_Housing_Regression.ipynb): <br> 
+       2. [California Housing Prices](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Housing_Prices_Regression/California_Housing_Regression.ipynb): <br> 
       In this project, I have carried out regression calculations to predict housing prices using the california housing data. I have used Linear models:
       **Linear Regression**, **Ridge Regression** and Non-linear models **Random Forest Regression**, **K-Nearest Neighbor Regression** and **Support Vector Machine Regression (with gaussian kernel (rbf))**. The model highlights the complexity in some dataset and the need to use non-linear or beyond linear models to get an accurate prediction.
      2. **Classification**
