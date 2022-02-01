@@ -52,8 +52,9 @@
       In this project, I have carried out regression calculations to predict housing prices using the california housing data. I have used Linear models:
       **Linear Regression**, **Ridge Regression** and Non-linear models **Random Forest Regression**, **K-Nearest Neighbor Regression** and **Support Vector Machine Regression (with gaussian kernel (rbf))**. The model highlights the complexity in some dataset and the need to use non-linear or beyond linear models to get an accurate prediction.
      2. **Classification**
-        1. [Churn prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Bank_Customers_Churn_Classification/Churn_Classification.ipynb): <br>
+        1. [Churn Prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Bank_Customers_Churn_Classification/Churn_Classification.ipynb): <br>
            In this project, I have carried out binary classification prediction to predict customers churning or not-churing. I have used 7 classifiers for the problem namely: **Logistic Regression**, **Random Forest Classifier**, **Decision Tree Classifier**, **K Neighbors Classifier**, **Support Vector Machine Classifier** and Boosting methods **Ada Boost Classifier** and **Gradient Boosting Classifier**. The two boosting methods and Random Forest Classifier have the best predictions. A majority **Voting classifier** shows same accuracy as the best three classifiers. 
+       2. [Loan Default Prediction] (https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Loan_Default_Prediction/Single_family_loan_prediction.ipynb): <br>
         
    
 
