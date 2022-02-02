@@ -39,7 +39,7 @@
  
  1. [Amorphous Materials Modeling](https://github.com/i-bishalb/Amorphous_Modeling) 
     1. [Random Amorphous Configuration](https://github.com/i-bishalb/Amorphous_Modeling/blob/main/Random_amorphous_configuration/Random_Configuration_Generator.py): This python code produces random amorphous configuration needed to start molecular dynamics (MD) calculation. The final file is in VASP input POSCAR format. All the atoms in the final configuration are separated by at least 1.8 Angstrom and the atoms satisfy periodic boundary conditions.
-    2. [Vibrational density of states](https://github.com/i-bishalb/Amorphous_Modeling/blob/main/Vibrational_density_of_states/VASP_OUTCAR_to_TOTAL_VDOS.py): This python code uses **CONTCAR** and **OUTCAR** file obtained after phonon calculations (IBRION=5) in VASP. To calculate total vibrational density of states(VDOS) and plot the total vibrational states. The **CONTCAR* and **OUTCAR** file must be present in the same folder as the code.
+    2. [Vibrational density of states](https://github.com/i-bishalb/Amorphous_Modeling/blob/main/Vibrational_density_of_states/VASP_OUTCAR_to_TOTAL_VDOS.py): This python code uses **CONTCAR** and **OUTCAR** file obtained after phonon calculations (IBRION=5) in VASP. To calculate total vibrational density of states(VDOS) and plot the total vibrational states. The **CONTCAR** and **OUTCAR** file must be present in the same folder as the code.
      
  
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
