@@ -38,7 +38,8 @@
  ## Repositories:
  
  1. [Amorphous Materials Modeling](https://github.com/i-bishalb/Amorphous_Modeling) 
-    1. Random Amorphous Configuration
+    1. [Random Amorphous Configuration](https://github.com/i-bishalb/Amorphous_Modeling/blob/main/Random_amorphous_configuration/Random_Configuration_Generator.py): This python code produces random amorphous configuration needed to start molecular dynamics (MD) calculation. The final file is in VASP input POSCAR format. All the atoms in the final configuration are separated by at least 1.8 Angstrom and the atoms satisfy periodic boundary conditions.
+    
  
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
    
