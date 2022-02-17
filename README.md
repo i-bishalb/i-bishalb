@@ -43,6 +43,10 @@
      
  
  2. [Machine Learning Projects](https://github.com/i-bishalb/MachineLearningProjects)
+    This repository contains some of the projects that I carried out for my learning and interest.
+    1. **Text Classification (Natural Language Processing)**
+       1. [Sentiment Analysis](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Sentiment_Analysis/Sentiment_Analysis.ipynb): 
+ 
    
 
  3. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningAssignments)
