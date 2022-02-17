@@ -46,7 +46,7 @@
     This repository contains some of the projects that I carried out for my learning and interest.
     1. **Text Classification (Natural Language Processing)**
        1. [Sentiment Analysis](https://github.com/i-bishalb/MachineLearningProjects/blob/main/Sentiment_Analysis/Sentiment_Analysis.ipynb): 
-          In this project, I have utilized **NLTK** tools such as **Tokenizer**, **PorterStemmer**, **stopwords**, **sklearn** tools such as **CountVectorizer**, **TF-IDF** and **BeautifulSoup** to parse text and html data to convert into machine learning processed vectors. The dataset is IMBD user review and the target variable being the sentiment(postive or negative). I have utilized logistic-regression to train my models after pre-processing. The models produces 91% accuracy with good numbers for both Precision and Recall.
+          In this project, I have utilized **NLTK** tools such as **Tokenizer**, **PorterStemmer**, **stopwords**, **sklearn** tools such as **CountVectorizer**, **TF-IDF** and tools from **BeautifulSoup** to parse raw-text/html data to convert into machine learning processed vectors. The dataset is IMBD user review and the target variable being the sentiment(postive or negative). I have utilized logistic-regression to train my models after pre-processing. The models produces 91% accuracy with good numbers for both Precision and Recall.
    
 
  3. [Machine Learning Assignments (Small projects)](https://github.com/i-bishalb/MachineLearningAssignments)
