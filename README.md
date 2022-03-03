@@ -63,6 +63,10 @@
         2. [Loan Default Prediction](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Loan_Default_Prediction/Single_family_loan_prediction.ipynb): 
            In this project, I have carried out classification prediction to predict whether a loan will default or not. I have used 4 classifires for the problem: **Logistic Regression**, **Random Forest Classifier**, **K Neighbors Classifier** and **Gradient Boosting Classifier**. The simplest classifier (Logistic Regression) does the best job of predicting loan default.
  
+    3. **Deep Learning and Neural Networks**
+       1.[Fashion Classification](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Zalando_Fashion_Classification/Zalando_Clothing_Classification.ipynb):
+         In this project, I have 
+ 
         
    
 
