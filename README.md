@@ -66,7 +66,8 @@
     3. **Deep Learning and Neural Networks**
        1. [Fashion Classification](https://github.com/i-bishalb/MachineLearningAssignments/blob/main/Zalando_Fashion_Classification/Zalando_Clothing_Classification.ipynb):
          In this project, I have carried out image classfication from Zalando image dataset. I have utilized **Convolution Neural Network (CNN)** to train the model. I have build a simple model first and a complex model. The complex model make a better prediction (88 % versus 91 %). I have further utilized **Keras-Tuner** to tune hyperparameters for the **CNN** model.
-       2. [Stock Prices using LSTM and ARIMA]
+       2. [Predicting Stock Prices](https://github.com/i-bishalb/MachineLearningAssignments/tree/main/Predicting_Stock_Prices):
+         In this project, I have carried out **Time-series analysis** and build models using ARIMA and LSTM calculations to predict stock prices. The deep-learning based LSTM models does much better job in understanding the complex pattern and predicting the stock prices.
  
         
    
